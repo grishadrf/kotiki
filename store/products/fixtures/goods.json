@@ -1,0 +1,1 @@
+[{"model": "products.product", "pk": 1, "fields": {"name": "ñscscs", "description": "cscscscscscscscscscscs", "price": "123.00", "quantity": 12, "image": "products_images/2023-04-10-09-27-42.jpg", "category": 3}}]
